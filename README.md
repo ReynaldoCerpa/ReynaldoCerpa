@@ -1,5 +1,6 @@
 <div align="center">
    <h1>Web developer, student and Go enthusiast!</h1>
+	 ![gopher dancing](./dancing-gopher.gif)
    
    
    <h2>Technologies</h2>
