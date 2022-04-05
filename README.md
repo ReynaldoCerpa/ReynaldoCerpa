@@ -1,10 +1,11 @@
 <div align="center">
    <h1>Web developer, student and Go enthusiast!</h1>
-	 ![gopher dancing](./dancing-gopher.gif)
    
    
    <h2>Technologies</h2>
 </div>
+
+![gopher dancing](./dancing-gopher.gif)
 
 <div align="center">
       <img alt"React" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
