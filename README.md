@@ -1,4 +1,4 @@
-## Hi there, my name is Reynaldo Cerpa - [Reynaldo Cerpa][linkedin] 👋
+## Hey! im Reynaldo Cerpa 👋
 
 ### This is me (last edition)
 
@@ -35,7 +35,6 @@
 [<img align="left" alt="Pablo Domínguez | LinkedIn" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spotify.svg" alt="Pablo Domínguez Spotify Playing" />](https://open.spotify.com/user/qeuuf5fe87ujjvlfwi60di9fs)
 [<img align="left" width="48px" src="https://user-images.githubusercontent.com/32307513/127232518-a3a326c5-3e5c-486e-a192-a27d8c351332.png" alt="Code Wars" />](https://www.codewars.com/users/pbldmngz)
-[<img align="right" src="https://www.codewars.com/users/pbldmngz/badges/large" alt="Code Wars" />](https://www.codewars.com/users/pbldmngz)
 
 <br />
 <br />
