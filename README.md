@@ -1,6 +1,6 @@
 <div align="center">
    
-   # Web developer, student and Go enthusiast!
+   # Web developer, student and Intern at Caterpillar
 
    ![gopher dancing](./dancing-gopher.gif)
    
