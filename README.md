@@ -1,6 +1,6 @@
 <div align="center">
    
-   # Web developer, student and Intern at Caterpillar
+   # Software Engineer
 
    ![gopher dancing](./dancing-gopher.gif)
    
